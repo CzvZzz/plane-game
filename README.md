@@ -6,4 +6,4 @@
 
 2020.11.26 ZJC  
 
-代码更符合规范，新建了monster_aliens.py存储外星人群的生存
+代码更符合规范，新建了monster_aliens.py存储外星人群的生成
